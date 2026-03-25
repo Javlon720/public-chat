@@ -15,4 +15,5 @@ export const config = {
     port_vite:Number(process.env.PORT_VITE)
 }
 
-console.log(config);
+
+

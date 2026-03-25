@@ -7,7 +7,7 @@ export default defineConfig({
         host: true
     },
     build: {
-        minify: true
+        minify: 2048
     }
 })
 

@@ -8,3 +8,5 @@ const start = async () => {
     console.log((`Server running on ${config.port_api}`));
 }
 start()
+
+
